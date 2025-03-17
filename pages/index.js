@@ -6,8 +6,7 @@ export default function Home() {
         <img src="/logo.png" alt="Logo Inversiones" className="w-32 h-32 mx-auto mb-4" />
         <h1 className="text-5xl font-extrabold text-white mb-4">Maite y Eneko</h1>
         <p className="text-xl text-gray-300">
-          Bienvenidos al sitio de gestión y análisis de inversiones.
-          Explora las secciones para ver y gestionar tus activos y cuentas.
+          Bienvenidos al sitio de gestión y análisis de inversiones. Explora las secciones para ver y gestionar tus activos y cuentas.
         </p>
       </div>
     </div>
