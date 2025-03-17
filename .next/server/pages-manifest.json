@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/assetsByType": "pages/assetsByType.js",
+  "/assetsIndividual": "pages/assetsIndividual.js",
+  "/bank": "pages/bank.js",
+  "/investments": "pages/investments.js",
+  "/_document": "pages/_document.js"
+}
